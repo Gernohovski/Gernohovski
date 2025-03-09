@@ -1,6 +1,6 @@
-# Olá, sou o Rodrigo Gernohovski e atualmente estudo Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes 😊
+# Olá, sou o Rodrigo Gernohovski e atualmente estudo Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/grnhvsk/)
+Instagram foi removido por solicitação da minha namorada.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-gernohovski/)
 
 ![Gernohovski GitHub stats](https://github-readme-stats.vercel.app/api?username=Gernohovski&show_icons=true&theme=radical)
