@@ -59,11 +59,3 @@ Interesses principais:
 
 📧 **Email:** `gernohovskirodrigo@gmail.com`
 💼 **LinkedIn:** `linkedin.com/in/rodrigo-gernohovski`
-
----
-
-<div align="center">
-
-**Backend • Cloud • Architecture**
-
-</div>
